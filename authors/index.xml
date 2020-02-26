@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Clementino JR&#39;s Page</title>
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020-2021 - Junior Clementino ©</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://localhost:1313/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Erikson Aguiar is a Master&amp;rsquo;s candidate at the Intermidia Lab of the University of São Paulo. His Interests include distributed systems, blockchain, data mining, IoT, and security. He leads a research related to blockchain in healthcare environments to improve privacy using differential privacy, supervised by Prof. Jó Ueyama.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

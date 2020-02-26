@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Clementino JR&#39;s Page</title>
+    <link>http://localhost:1313/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020-2021 - Junior Clementino ©</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>1</title>
+      <link>http://localhost:1313/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Análise de Sentimento em Redes Sociais para a Língua Portuguesa Utilizando Algoritmos de Classificação</title>
+      <link>http://localhost:1313/publication/sbrc-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sbrc-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

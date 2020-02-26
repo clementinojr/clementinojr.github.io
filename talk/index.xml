@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop | Clementino JR&#39;s Page</title>
+    <link>http://localhost:1313/talk/</link>
+      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020-2021 - Junior Clementino ©</copyright><lastBuildDate>Sat, 19 Oct 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/icon-192.png</url>
+      <title>Workshop</title>
+      <link>http://localhost:1313/talk/</link>
+    </image>
+    
+    <item>
+      <title>Build Smart Contracts in Blockchain</title>
+      <link>http://localhost:1313/talk/bc-semcomp/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/bc-semcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain 3.0 fundamentals and challenges</title>
+      <link>http://localhost:1313/talk/bc-uenp/</link>
+      <pubDate>Wed, 21 Aug 2019 21:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/bc-uenp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build Smart Contracts in Blockchain</title>
+      <link>http://localhost:1313/talk/bc-workshop/</link>
+      <pubDate>Mon, 19 Aug 2019 19:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/bc-workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
